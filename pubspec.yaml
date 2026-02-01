@@ -1,7 +1,7 @@
 name: raynaui_icons
 description: "A Flutter icon package featuring RaynaUI icons - beautiful line and fill style icons for your Flutter apps."
-version: 0.0.1
-homepage: https://www.raynaui.com/
+version: 1.0.0
+homepage: https://github.com/Lord-Chris/raynaui_icons.git
 
 environment:
   sdk: ^3.7.2

@@ -17,7 +17,7 @@ Add `raynaui_icons` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  raynaui_icons: ^0.0.1
+  raynaui_icons: ^1.0.0
 ```
 
 Then run:
