@@ -11,7 +11,7 @@
 /// Icon(RaynaUILineIcons.home)
 /// Icon(RaynaUIFillIcons.home)
 /// ```
-library raynaui_icons;
+library;
 
-export 'src/raynaui_line_icons.dart';
 export 'src/raynaui_fill_icons.dart';
+export 'src/raynaui_line_icons.dart';
